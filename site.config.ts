@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'SIT EE',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Surajit',
+  author: 'SIT',
 
   // open graph metadata (optional)
   description: 'SIT EE Dept Test Site',
