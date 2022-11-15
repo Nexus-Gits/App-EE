@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'SIT EE',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://app-ee.vercel.app/',
   author: 'SIT',
 
   // open graph metadata (optional)
